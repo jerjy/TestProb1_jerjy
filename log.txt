@@ -1,0 +1,30 @@
+commit 56341a5bfeb59991edc0b9be0ffb39c217598dd5
+Author: Jerjy El-Sous <Jerjy@Jerjys-MacBook-Pro.local>
+Date:   Wed Mar 14 21:03:48 2018 +0200
+
+    added the alias text file
+
+commit 631b460558a0e7cc7e67c7844fa8e88d69116519
+Author: Jerjy El-Sous <Jerjy@Jerjys-MacBook-Pro.local>
+Date:   Wed Mar 14 20:39:58 2018 +0200
+
+    added last column stats
+
+commit 88d459e4bb6654ebbbae63cad6c76922c50b5bff
+Author: Jerjy El-Sous <Jerjy@Jerjys-MacBook-Pro.local>
+Date:   Wed Mar 14 20:36:00 2018 +0200
+
+    made first column data
+
+commit 63c4e676ab6d199f1ae8e6e20b254a8e17e1eb6b
+Author: jerjy <36159616+jerjy@users.noreply.github.com>
+Date:   Wed Mar 14 19:28:59 2018 +0200
+
+    Delete .DS_Store
+
+commit b204e8c106f282b49943cd1d34156fbd9dc283c4
+Author: Jerjy El-Sous <Jerjy@Jerjys-MacBook-Pro.local>
+Date:   Wed Mar 14 19:22:27 2018 +0200
+
+    initialized rep
+
