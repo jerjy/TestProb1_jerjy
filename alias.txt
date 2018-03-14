@@ -1,0 +1,4 @@
+alias cdd=' cd ~/Desktop/ 
+alias gitt=' git add .'
+source ~/.bash_profile    #on mac to be able to create an alias i wasnt able to locate .bashrc so the option was to create a text file called .bash_profile then add my alias and then after writing and quitting, i had to source it that way
+alias lazy=' source ~/.bash_profile '
